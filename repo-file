@@ -1,0 +1,11 @@
+my-ci-cd-project/
+├── .github/
+│   └── workflows/
+│       └── ci.yml
+├── src/
+│   └── index.js
+├── tests/
+│   └── test.js
+├── .gitignore
+├── package.json
+└── README.md

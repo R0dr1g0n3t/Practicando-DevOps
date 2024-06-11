@@ -1,4 +1,4 @@
-my-ci-cd-project/
+Practicando-DevOps/
 ├── .github/
 │   └── workflows/
 │       └── ci.yml
